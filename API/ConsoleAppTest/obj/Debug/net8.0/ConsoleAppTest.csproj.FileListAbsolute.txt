@@ -1,0 +1,5 @@
+U:\Stage\Titouan\API\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.csproj.AssemblyReference.cache
+U:\Stage\Titouan\API\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+U:\Stage\Titouan\API\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.AssemblyInfoInputs.cache
+U:\Stage\Titouan\API\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.AssemblyInfo.cs
+U:\Stage\Titouan\API\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.csproj.CoreCompileInputs.cache

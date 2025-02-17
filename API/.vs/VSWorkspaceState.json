@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiTest",
+    "\\ApiTest\\Controllers",
+    "\\Entity",
+    "\\HttpClientTest",
+    "\\Manager",
+    "\\WebAppRazor",
+    "\\WebAppRazor\\Pages"
+  ],
+  "SelectedNode": "\\ApiTest",
+  "PreviewInSolutionExplorer": false
+}
